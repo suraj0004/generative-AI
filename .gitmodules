@@ -1,0 +1,3 @@
+[submodule "restaurant-name-generator"]
+	path = restaurant-name-generator
+	url = https://github.com/suraj0004/restaurant-name-generator.git
