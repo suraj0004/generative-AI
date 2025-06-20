@@ -2,3 +2,7 @@
 	path = restaurant-name-generator
 	url = https://github.com/suraj0004/restaurant-name-generator.git
 	branch = main
+[submodule "AI-news-researcher"]
+	path = AI-news-researcher
+	url = https://github.com/suraj0004/AI-news-researcher.git
+	branch = main
