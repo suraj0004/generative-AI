@@ -6,3 +6,7 @@
 	path = AI-news-researcher
 	url = https://github.com/suraj0004/AI-news-researcher.git
 	branch = main
+[submodule "my-resume-based-AI-QnA"]
+	path = my-resume-based-AI-QnA
+	url = https://github.com/suraj0004/my-resume-based-AI-QnA.git
+	branch = main
